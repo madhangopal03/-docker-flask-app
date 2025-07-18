@@ -3,7 +3,6 @@
 ## 🚀 Features
 - Python Flask backend
 - Docker container setup
-- Simple web interface
 
 ## 📁 Project Structure
 .
